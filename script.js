@@ -14,6 +14,9 @@ addBtn.onclick = function () {
   }
 }
 
-clearBtn.onclick = function () {
+
+
+
+clearBtn.onclick = function (){
   tasks.innerHTML = " ";
 }
